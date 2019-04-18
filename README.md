@@ -6,3 +6,5 @@ A Delaunay Triangulation graph is a triangulation in which all nodes are part of
 
 Example image:  
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/8/82/Delaunay_triangulation_does_not_minimize_edge_length.gif) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Delaunay_circumcircles_centers.svg/1280px-Delaunay_circumcircles_centers.svg.png" width="300" height="300">
+
+This is a summer project for fun.
